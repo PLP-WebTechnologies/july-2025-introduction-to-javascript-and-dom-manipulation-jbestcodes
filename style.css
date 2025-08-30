@@ -1,0 +1,18 @@
+/* Optional: Add your styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 2em;
+    background: #f9f9f9;
+}
+#output {
+    margin: 1em 0;
+    padding: 1em;
+    background: #fffbe7;
+    border: 1px solid #ffe082;
+    border-radius: 5px;
+}
+button {
+    padding: 0.5em 1em;
+    font-size: 1em;
+    cursor: pointer;
+}
